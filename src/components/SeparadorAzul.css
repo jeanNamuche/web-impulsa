@@ -1,0 +1,8 @@
+.separador-azul {
+    width: 100%;
+    height: 60px;
+    background-color: #0039a6; /* Ajusta el color al que usas */
+    transform: skewY(-2deg); /* Esto le da la inclinación */
+    margin: 0;
+  }
+  

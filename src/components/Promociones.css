@@ -1,0 +1,32 @@
+.promociones-container {
+    text-align: center;
+    padding: 4rem 1rem;
+  }
+  
+  .promociones-cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .promo-card {
+    width: 250px;
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+  }
+  
+  .promo-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .promo-text {
+    font-size: 1.2rem;
+    color: #002b5b;
+  }
+  
+  .promo-text span {
+    color: #c6da00;
+  }
+  
